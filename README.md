@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a high school student from China with a passio
 - **Web Development**: HTML, CSS, JavaScript, Node.js
 - **Algorithms and Data Structures**
 - **Machine Learning**: Exploring AI and deep learning
-- **Open Source Contributions**: Contributing to various projects
+
 
 ## 🌊 My Passions
 Besides coding, I absolutely love **surfing** and the **anime world**. 🌊🌟 Whether it's catching waves or diving into the latest anime series, I'm always up for an adventure.
