@@ -1,6 +1,6 @@
 # Hi there, I'm lovelykoishi 👋
 
-Welcome to my GitHub profile! I'm a high school student from China with a passion for computer science and technology. I enjoy exploring different areas of computing, including:
+Welcome to my GitHub profile! I'm a  with a passion for computer science and technology. I enjoy exploring different areas of computing, including:
 
 - **Programming Languages**: Python, JavaScript, C++, etc.
 - **Web Development**: HTML, CSS, JavaScript, Node.js
